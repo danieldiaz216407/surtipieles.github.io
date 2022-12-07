@@ -1,0 +1,33 @@
+nav{background-color: #A84936;}
+
+#navbarNavDropdown{
+    justify-content:end ;
+}
+
+.nav-item{
+    padding: 15PX;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+nav .nav-link{
+    color: aliceblue;
+}
+
+#primera{
+    background-color: #f8b579;
+}
+
+.row{
+    justify-content: center;
+}
+
+.marco{
+    background-color: #A84936;
+    border-radius: 10px;
+    color: aliceblue;
+}
+
+.catalogo{
+  font-family: 'Black Han Sans', sans-serif;
+}
